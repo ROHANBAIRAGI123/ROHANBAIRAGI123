@@ -84,21 +84,6 @@ const rohan = {
 
 ---
 
-## � Skill Progress
-
-<div align="center">
-
-| Technology | Proficiency |
-|------------|-------------|
-| JavaScript/TypeScript | ![95%](https://progress-bar.dev/95/?title=Expert&color=6C63FF&width=200) |
-| React/Next.js | ![90%](https://progress-bar.dev/90/?title=Advanced&color=6C63FF&width=200) |
-| Python | ![88%](https://progress-bar.dev/88/?title=Advanced&color=6C63FF&width=200) |
-| Node.js | ![85%](https://progress-bar.dev/85/?title=Advanced&color=6C63FF&width=200) |
-
-</div>
-
----
-
 ## �🛠️ Tech Stack
 
 <div align="center">
@@ -137,15 +122,6 @@ const rohan = {
 
 ## ⏱️ Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.21 %
-Python       6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.73 %
-CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-```
-<!--END_SECTION:waka-->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHANBAIRAGI123&theme=tokyonight" alt="Profile Details"/>
@@ -212,19 +188,6 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 </div>
 
----
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [How I Built a Full-Stack App in 48 Hours](https://dev.to/rohanbairagi)
-- 💡 [10 VS Code Extensions Every Developer Needs](https://dev.to/rohanbairagi)
-- 🔥 [Mastering React Hooks: A Complete Guide](https://dev.to/rohanbairagi)
-- 🌟 [My Journey into Open Source](https://dev.to/rohanbairagi)
-- 📚 [Understanding Docker for Beginners](https://dev.to/rohanbairagi)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://dev.to/rohanbairagi)
 
 ---
 
@@ -233,8 +196,8 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 <div align="center">
 
 ```
-🎵 Listening to Lo-Fi beats          🎮 Gaming (Valorant, CS2)
-📚 Reading Tech Blogs                ☕ Brewing the perfect coffee
+🎵 Anime/Manga                              🎮 Gaming 
+    📚 Reading Tech Blogs                   ☕ Brewing the perfect coffee
 🏋️ Working out                       🎬 Watching Tech YouTube
 🌍 Exploring new technologies        🧩 Solving puzzles
 ```
@@ -247,42 +210,16 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ROHANBAIRAGI123)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ROHANBAIRAGI123)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ROHANBAIRAGI123)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbairagi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ROHANBAIRAGI123.github.io)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rohanbairagi)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rohanbairagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-bairagi-03571a28a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohan_bairagi_0410)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbairagi40@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qWAtm2XG)
 
 </div>
 
 ---
 
-## 📊 This Week I Spent My Time On
-
 <div align="center">
-
-```text
-💼 Work:        █████████████████░░░░░░░░   68% - Building awesome stuff
-📖 Learning:    ████████░░░░░░░░░░░░░░░░░   20% - Expanding horizons  
-🎮 Fun:         ███░░░░░░░░░░░░░░░░░░░░░░   12% - Gaming & relaxing
-```
-
-</div>
-
-
-
----
-
-<div align="center">
-
-### 📫 Quick Contact
-
-<a href="mailto:rohanbairagi@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-Let's_Talk!-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -308,19 +245,6 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Have+a+great+day!+😊;Let's+connect+and+collaborate!+🤝;Happy+Coding!+💻" alt="Outro"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
 </div>
 
-<!--
-**ROHANBAIRAGI123/ROHANBAIRAGI123** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here's some quick setup tips:
-1. Replace "project-1" and "project-2" with your actual repository names
-2. Update all social media links with your real profiles
-3. Set up WakaTime for automatic coding stats: https://wakatime.com
-4. Set up the snake animation with GitHub Actions
-5. Update the blog posts section or set up automatic updates
-6. Customize the featured projects table with your actual projects
-7. Update Spotify integration with your Spotify ID
--->
