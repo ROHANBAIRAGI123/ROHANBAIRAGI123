@@ -6,10 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/ROHANBAIRAGI123">
-  <img src="https://img.shields.io/badge/💼_Open_for_Opportunities-6C63FF?style=for-the-badge"/>
-</a>
-
 [![GitHub followers](https://img.shields.io/github/followers/ROHANBAIRAGI123?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/ROHANBAIRAGI123)
 [![GitHub Stars](https://img.shields.io/github/stars/ROHANBAIRAGI123?logo=github&style=for-the-badge&color=6C63FF)](https://github.com/ROHANBAIRAGI123)
 [![Profile Views](https://komarev.com/ghpvc/?username=ROHANBAIRAGI123&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ROHANBAIRAGI123)
@@ -17,72 +13,7 @@
 
 </div>
 
----
 
-## 🎯 Current Status
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-```yaml
-🔭 Currently Working On:
-  - Building SaaS Products
-  - Contributing to Open Source
-  - Learning Cloud Architecture
-
-🌱 Learning:
-  - Kubernetes & DevOps
-  - System Design
-  - AI/ML Integration
-
-👯 Looking to Collaborate On:
-  - Innovative Web Projects
-  - Open Source Tools
-  - Startup Ideas
-
-⚡ Fun Fact:
-  "I mass-produced a mass-production
-   system for mass production"
-```
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANBAIRAGI123&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const rohan = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentFocus: "Building impactful projects",
-    funFact: "I debug with console.log and I'm proud of it 😄",
-    
-    skills: {
-        languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
-        frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
-        tools: ["VS Code", "Postman", "Figma", "Linux"]
-    },
-    
-    currentlyLearning: ["Cloud Architecture", "System Design", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Open Source", "Coffee ☕"]
-};
-```
-
----
 
 ## �🛠️ Tech Stack
 
@@ -118,39 +49,12 @@ const rohan = {
 
 </div>
 
----
-
-## ⏱️ Weekly Coding Stats
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHANBAIRAGI123&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHANBAIRAGI123&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHANBAIRAGI123&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROHANBAIRAGI123&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROHANBAIRAGI123&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
----
 
 ## �📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROHANBAIRAGI123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANBAIRAGI123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANBAIRAGI123&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
-
 
 ---
 
@@ -189,22 +93,6 @@ const rohan = {
 </div>
 
 
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-```
-🎵 Anime/Manga                              🎮 Gaming 
-    📚 Reading Tech Blogs                   ☕ Brewing the perfect coffee
-🏋️ Working out                       🎬 Watching Tech YouTube
-🌍 Exploring new technologies        🧩 Solving puzzles
-```
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -217,34 +105,8 @@ const rohan = {
 
 </div>
 
----
-
-<div align="center">
-
-<br/><br/>
-
-```
-                    ╔═══════════════════════════════════════════╗
-                    ║                                           ║
-                    ║   "First, solve the problem.              ║
-                    ║    Then, write the code."                 ║
-                    ║                        - John Johnson     ║
-                    ║                                           ║
-                    ╚═══════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ Show some love by starring some repositories!
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Have+a+great+day!+😊;Let's+connect+and+collaborate!+🤝;Happy+Coding!+💻" alt="Outro"/>
-
 </div>
+
 
 
