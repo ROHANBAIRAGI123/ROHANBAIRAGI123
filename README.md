@@ -1,21 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohan%20Bairagi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Tech%20Explorer&descAlignY=52&descSize=18"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Garden+🌱;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Projects+%F0%9F%94%A5;Coffee+%2B+Code+%3D+Magic+✨)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![GitHub followers](https://img.shields.io/github/followers/ROHANBAIRAGI123?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/ROHANBAIRAGI123)
-[![GitHub Stars](https://img.shields.io/github/stars/ROHANBAIRAGI123?logo=github&style=for-the-badge&color=6C63FF)](https://github.com/ROHANBAIRAGI123)
-[![Profile Views](https://komarev.com/ghpvc/?username=ROHANBAIRAGI123&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ROHANBAIRAGI123)
-[![Repos Badge](https://img.shields.io/badge/Public_Repos-20+-6C63FF?style=for-the-badge&logo=github)](https://github.com/ROHANBAIRAGI123?tab=repositories)
-
-</div>
-
-
-
-## �🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,7 +33,7 @@
 </div>
 
 
-## �📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANBAIRAGI123&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -58,7 +41,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -70,7 +53,7 @@
 
 ---
 
-## 🎵 Vibing To
+## Vibing To
 
 <div align="center">
 
@@ -94,7 +77,7 @@
 
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
